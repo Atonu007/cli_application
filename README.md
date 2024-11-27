@@ -103,5 +103,5 @@ To run the application, follow these steps:
 
 Visit the following path for output screenshots:
 
-- **[Path to output screenshots]([py_test/output](https://github.com/Atonu007/cli_application/tree/main/output))**
+- **[Path to output screenshots](https://github.com/Atonu007/cli_application/tree/main/output)**
    
