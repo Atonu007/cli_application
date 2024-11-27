@@ -6,6 +6,14 @@ The **Employee Management System** is a command-line application that allows use
 
 ---
 
+## Output Screenshots
+
+Visit the following path for output screenshots:
+
+- **[Path to output screenshots](https://github.com/Atonu007/cli_application/tree/main/output)**
+
+---
+
 ## System Architecture
 
 The system is organized into several Python modules, each with specific responsibilities:
@@ -99,9 +107,5 @@ To run the application, follow these steps:
    python main.py
    ```
 
-## Output Screenshots
 
-Visit the following path for output screenshots:
-
-- **[Path to output screenshots](https://github.com/Atonu007/cli_application/tree/main/output)**
    
